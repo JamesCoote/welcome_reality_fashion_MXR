@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2067402452, guid: bab6fa851cf5a1a4bba3cec5f191cb8e, type: 3}
+  m_Name: VuforiaConfiguration
+  m_EditorClassIdentifier: 
+  vuforia:
+    vuforiaLicenseKey: 
+    ufoLicenseKey: QWUrRXRHbi8vLy8vQUFBQUtMdjN2ZEtvV2tEL3Nxd0E3aHE4UkU1ZVNjb1FiR3NjNlpvQ3hxOFBVY0hiNmQ3K0J5dFNrVlZLbm56dHZQMHNhVGM4djQrK3JlZkJXSEYvNEdDRXcxT2UzVDRJcVVGYk1kVlZ0ZGI1TTE5cHhCd20wS1BTTDYyK01UM0x2SW9hS21CVnNiNmVidXBpc2pWNTk0TjNsSUFjMG9OWTVmQWczMm1jOHRDcENTZFcxUGlCRVpNUFkwRUlBU0hLYTE1Z25Wc2NIanJ0QnZod0I4L2ExTFgvK0QrV01DM3ZSQUxQWFAybld0dm1iODBWNXd6WVhicVNXRmZsREFSaW9PVUp3M0dxb1lZaHhzNTgvQk9tczJjK1c2RnJKMy9CMVF3RzFqdkQyRjN1aFoyeHVXeEY4NUdGWHg0eTJEcjNYZGdZbEFwZjFwL0xYQlc2STR4R1A4VndjVWU2QTFPWEpkR05CMmZQWHBuck5ucks=
+    delayedInitialization: 0
+    cameraDeviceModeSetting: -1
+    maxSimultaneousImageTargets: 1
+    maxSimultaneousObjectTargets: 1
+    useDelayedLoadingObjectTargets: 0
+    version: 8.1.7
+    eulaAcceptedVersions: '{"Values":["8.1"]}'
+  digitalEyewear:
+    cameraOffset: 0.06
+    distortionRenderingLayer: 31
+    eyewearType: 0
+    stereoFramework: 0
+    seeThroughConfiguration: 0
+    viewerName: 
+    viewerManufacturer: 
+    useCustomViewer: 0
+    customViewer:
+      Version: 0
+      Name: 
+      Manufacturer: 
+      ButtonType: 0
+      ScreenToLensDistance: 0
+      InterLensDistance: 0
+      TrayAlignment: 0
+      LensCenterToTrayDistance: 0
+      DistortionCoefficients: {x: 0, y: 0}
+      FieldOfView: {x: 0, y: 0, z: 0, w: 0}
+      ContainsMagnet: 0
+  database:
+    disableModelExtraction: 0
+  videoBackground:
+    clippingMode: 0
+    numDivisions: 2
+    videoBackgroundShader: {fileID: 0}
+    matteShader: {fileID: 0}
+    videoBackgroundEnabled: 1
+  deviceTracker:
+    autoInitTracker: 0
+    autoStartTracker: 0
+    trackingMode: 1
+    posePrediction: 0
+    modelCorrectionMode: 0
+    modelTransformEnabled: 0
+    modelTransform: {x: 0, y: 0.1, z: -0.1}
+  smartTerrain:
+    autoInitTracker: 0
+    autoStartTracker: 0
+  webcam:
+    deviceNameSetInEditor: 
+    turnOffWebCam: 0
+    renderTextureLayer: 30
