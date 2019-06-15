@@ -46,7 +46,7 @@ namespace Vuforia.UnityCompiled
 
             public UnityRenderPipeline()
             {
-#if !PRE_UNITY_2018_3
+#if UNITY_2018
                 UnityEngine.Experimental.Rendering.RenderPipeline.beginFrameRendering += OnBeginFrameRendering;
                 UnityEngine.Experimental.Rendering.RenderPipeline.beginCameraRendering += OnBeginCameraRendering;
 #else
@@ -55,7 +55,7 @@ namespace Vuforia.UnityCompiled
 #endif
             }
 
-#if !PRE_UNITY_2018_3
+#if UNITY_2018
             void OnBeginCameraRendering(Camera camera)
 #else
             void OnBeginCameraRendering(UnityEngine.Rendering.ScriptableRenderContext context, Camera camera)
@@ -65,7 +65,7 @@ namespace Vuforia.UnityCompiled
                     BeginCameraRendering(camera);
             }
 
-#if !PRE_UNITY_2018_3
+#if UNITY_2018
             void OnBeginFrameRendering(Camera[] cameras)
 #else
             void OnBeginFrameRendering(UnityEngine.Rendering.ScriptableRenderContext context, Camera[] cameras)
