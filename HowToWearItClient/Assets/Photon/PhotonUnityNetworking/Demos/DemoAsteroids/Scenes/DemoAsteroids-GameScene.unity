@@ -357,9 +357,7 @@ GameObject:
   m_Component:
   - component: {fileID: 523789982}
   - component: {fileID: 523789981}
-  - component: {fileID: 523789980}
   - component: {fileID: 523789979}
-  - component: {fileID: 523789978}
   - component: {fileID: 523789983}
   m_Layer: 0
   m_Name: RightEye
@@ -368,23 +366,7 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!81 &523789978
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 523789977}
-  m_Enabled: 1
 --- !u!124 &523789979
-Behaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 523789977}
-  m_Enabled: 1
---- !u!92 &523789980
 Behaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -844,9 +826,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1311613614}
   - component: {fileID: 1311613613}
-  - component: {fileID: 1311613612}
   - component: {fileID: 1311613611}
-  - component: {fileID: 1311613610}
   - component: {fileID: 1311613609}
   m_Layer: 0
   m_Name: LeftEye
@@ -867,23 +847,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d4f089e6e516d724da64c5e7440128a1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!81 &1311613610
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1311613608}
-  m_Enabled: 1
 --- !u!124 &1311613611
-Behaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1311613608}
-  m_Enabled: 1
---- !u!92 &1311613612
 Behaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

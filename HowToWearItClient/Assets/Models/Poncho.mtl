@@ -1,0 +1,148 @@
+# MTL Exporter v1.0 by Seungwoo Oh at CLO - Virtual Fashion Inc.
+newmtl PT_FABRIC_FRONT_5523
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka 2_5533.png
+map_Kd 2_5533.png
+newmtl FABRIC 1_FRONT_5495
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+newmtl Material5515
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+newmtl Material3826
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka C:/Users/noname/AppData/Local/CLO/CLO Standalone OnlineAuth/2980/1036/leg.jpg
+map_Kd C:/Users/noname/AppData/Local/CLO/CLO Standalone OnlineAuth/2980/1036/leg.jpg
+newmtl Material3729
+Ka 0.102853 0.102853 0.102853
+Kd 0.400000 0.400000 0.400000
+Ks 0.000000 0.000000 0.000000
+Ns 2.000000
+illum 2
+d 1.000000
+map_d C:/Users/noname/AppData/Local/CLO/CLO Standalone OnlineAuth/2980/1036/transparency.png
+newmtl Material3745
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka C:/Users/noname/AppData/Local/CLO/CLO Standalone OnlineAuth/2980/1036/hair.jpg
+map_Kd C:/Users/noname/AppData/Local/CLO/CLO Standalone OnlineAuth/2980/1036/hair.jpg
+newmtl Material3833
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka C:/Users/noname/AppData/Local/CLO/CLO Standalone OnlineAuth/2980/1036/eye.jpg
+map_Kd C:/Users/noname/AppData/Local/CLO/CLO Standalone OnlineAuth/2980/1036/eye.jpg
+newmtl Material3822
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka C:/Users/noname/AppData/Local/CLO/CLO Standalone OnlineAuth/2980/1036/arm.jpg
+map_Kd C:/Users/noname/AppData/Local/CLO/CLO Standalone OnlineAuth/2980/1036/arm.jpg
+newmtl Material3818
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka C:/Users/noname/AppData/Local/CLO/CLO Standalone OnlineAuth/2980/1036/body.jpg
+map_Kd C:/Users/noname/AppData/Local/CLO/CLO Standalone OnlineAuth/2980/1036/body.jpg
+newmtl Material3846
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka C:/Users/noname/AppData/Local/CLO/CLO Standalone OnlineAuth/2980/1036/eyelash.jpg
+map_Kd C:/Users/noname/AppData/Local/CLO/CLO Standalone OnlineAuth/2980/1036/eyelash.jpg
+newmtl Material3853
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka C:/Users/noname/AppData/Local/CLO/CLO Standalone OnlineAuth/2980/1036/eyelash.jpg
+map_Kd C:/Users/noname/AppData/Local/CLO/CLO Standalone OnlineAuth/2980/1036/eyelash.jpg
+newmtl Material3840
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka C:/Users/noname/AppData/Local/CLO/CLO Standalone OnlineAuth/2980/1036/eye.jpg
+map_Kd C:/Users/noname/AppData/Local/CLO/CLO Standalone OnlineAuth/2980/1036/eye.jpg
+newmtl Material3859
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka C:/Users/noname/AppData/Local/CLO/CLO Standalone OnlineAuth/2980/1036/tooth.jpg
+map_Kd C:/Users/noname/AppData/Local/CLO/CLO Standalone OnlineAuth/2980/1036/tooth.jpg
+newmtl Material3814
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka C:/Users/noname/AppData/Local/CLO/CLO Standalone OnlineAuth/2980/1036/face.jpg
+map_Kd C:/Users/noname/AppData/Local/CLO/CLO Standalone OnlineAuth/2980/1036/face.jpg
+newmtl Material3712
+Ka 0.102853 0.102853 0.102853
+Kd 0.400000 0.400000 0.400000
+Ks 0.000000 0.000000 0.000000
+Ns 2.000000
+illum 2
+d 1.000000
+map_d C:/Users/noname/AppData/Local/CLO/CLO Standalone OnlineAuth/2980/1036/transparency.png
+newmtl Material3726
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.029250 0.029250 0.029250
+Ns 5.656854
+illum 2
+d 1.000000
+map_Ka C:/Users/noname/AppData/Local/CLO/CLO Standalone OnlineAuth/2980/1036/ADIDAS_SCAN_Shoes.jpg
+map_Kd C:/Users/noname/AppData/Local/CLO/CLO Standalone OnlineAuth/2980/1036/ADIDAS_SCAN_Shoes.jpg
+newmtl Material3708
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.029250 0.029250 0.029250
+Ns 5.656854
+illum 2
+d 1.000000
+map_Ka C:/Users/noname/AppData/Local/CLO/CLO Standalone OnlineAuth/2980/1036/ADIDAS_SCAN_Shoes.jpg
+map_Kd C:/Users/noname/AppData/Local/CLO/CLO Standalone OnlineAuth/2980/1036/ADIDAS_SCAN_Shoes.jpg
