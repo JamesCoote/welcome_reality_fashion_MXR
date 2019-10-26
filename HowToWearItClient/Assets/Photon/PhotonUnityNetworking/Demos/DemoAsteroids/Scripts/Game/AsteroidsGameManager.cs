@@ -23,6 +23,8 @@ namespace Photon.Pun.Demo.Asteroids
     {
         public static AsteroidsGameManager Instance = null;
 
+        public static string avatarName = "";
+
         public Text InfoText;
 
         public GameObject[] AsteroidPrefabs;
@@ -174,7 +176,7 @@ namespace Photon.Pun.Demo.Asteroids
             Vector3 position = new Vector3(x, 0.0f, z);
             Quaternion rotation = Quaternion.Euler(0.0f, angularStart, 0.0f);
 
-            PhotonNetwork.Instantiate("Spaceship", position, rotation, 0);
+            PhotonNetwork.Instantiate("Spaceship" + avatarName, position, rotation, 0);
 
             if (PhotonNetwork.IsMasterClient)
             {

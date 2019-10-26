@@ -34,6 +34,11 @@ public class ClothOnWind : MonoBehaviour
     // Use this for initialization
     void Start()
     {
+        if (directionPointer == null)
+        {
+            directionPointer = Camera.main.gameObject;
+        }
+
         clothMod = this.GetComponent<Cloth>();
     }
 
